@@ -1,0 +1,14 @@
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>BTVN1 Application</Name>
+        <Assembly>BTVN1 Application\BTVN1 Application.dll</Assembly>
+        <AddInId>CD886445-A2E6-485D-9803-ADC1D087D767</AddInId>
+        <FullClassName>BTVN1_Application.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+    <ManifestSettings>
+        <UseRevitContext>False</UseRevitContext>
+        <ContextName>BTVN1 Application</ContextName>
+    </ManifestSettings>
+</RevitAddIns>
